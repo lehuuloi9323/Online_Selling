@@ -1,0 +1,20 @@
+.carousel-item .row .col-md-2 img {
+    height: 250px;
+}
+
+
+.carousel-item .row .col-md-4 img {
+    height: 200px;
+}
+
+.carousel-item .row .bg-white {
+    margin-right: 3.3%;
+}
+
+.icon-slider {
+    width: 30px;
+    height: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
